@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ads:home|Door43 (ads)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ads|d43-ads repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ads/archive/master.zip|d43-ads.zip]]
+
+**Recent Changes**
+{{changes>ns = ads}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ads|Ethnologue data]]
+
